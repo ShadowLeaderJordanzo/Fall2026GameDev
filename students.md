@@ -9,6 +9,7 @@
 - [Aramis Hernandez](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-aramishernandez1)
 - [Asher Snyder](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-asher37777)
 - [Bereket Haddish](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-bhaddish123)
+- [Brayden Albrecht](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-braydenalbrecht)
 - [Darius Brown](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-dpower2004)
 - [David Carangan](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-dcarangan)
 - [Drew Gondell](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-agondell4)
