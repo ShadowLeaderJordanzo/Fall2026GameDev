@@ -25,6 +25,7 @@
 - [Kyle Klipphahn](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-Master-Glorp)
 - [Leyton Jarden](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-ljarden)
 - [Liam Cahill](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-lecahill)
+- [Logan Walker](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-loganwalkerdev)
 - [Maxime Prigent](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-wcu-max)
 - [Nicholas Massaras](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-nikothegreeko)
 - [Nicholas Tran](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-nicktran2332)
