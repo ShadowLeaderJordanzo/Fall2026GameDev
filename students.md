@@ -20,6 +20,7 @@
 - [Jack Sharrar](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-johnsharrar)
 - [Jake Snyder](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-js905531)
 - [Jillian McNamara](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-jm1015824)
+- [Jordan Black](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-shadowleaderjordanzo)
 - [June Blinkenberg](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-jblinkenberg)
 - [Kykhoa Nguyen](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-kykhoa-n)
 - [Kyle Fisher](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-spoody215)
