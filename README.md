@@ -5,6 +5,7 @@ Welcome to WCUPA CSC 476 public game display. For games from the last class see 
 ## Student Submissions
 
 - [Individual Projects](students.html)
+- [Project 1](project1.html)
 - [Team Project 1 - Games](TeamProject1.html)
 - [Team Project 2 - Networked Games](TeamProject2.html)
 - [Additional Play Testing Links](PlayTest.html)
